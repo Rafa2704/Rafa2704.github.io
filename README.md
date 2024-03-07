@@ -5,7 +5,7 @@ Recentemente, concluí um projeto completo para integrar dados, utilizando o Air
 
 ## Passos
 
-### 1A. Extração de Dados com Airflow em Docker na EC2
+### 1. Extração de Dados com Airflow em Docker na EC2
    - Desenvolvi uma DAG no Airflow, executando em um contêiner Docker hospedado em uma instância EC2 na AWS, para extrair dados do banco transacional.
    - Configurei as conexões necessárias para o banco transacional e Snowflake.
    - Implementei tarefas na DAG para a extração dos dados brutos.
