@@ -39,7 +39,8 @@ Recentemente, concluí um projeto completo para integrar dados, utilizando o Air
    - Documentei alterações significativas no histórico do Git.
 
 ## Conclusão
-Fico satisfeito por ter concluído esse projeto e estou ansioso para compartilhar meu conhecimento com a comunidade. Estou aberto a feedback e colaborações.
+- Fico satisfeito por ter concluído esse projeto e estou ansioso para compartilhar meu conhecimento com a comunidade. Estou aberto a feedback e colaborações.
 
 ## Agradecimento
-Agradeço a Deus e a DSA que me deu a ideia de publicar em um site de forma totalmente gratuita, segue o link do meu github para poder visualisar os script do projeto
+- Agradeço a Deus e a DSA que me deu a ideia de publicar em um site de forma totalmente gratuita, segue o link do meu github para poder visualisar os script do projeto. 
+- https://github.com/Rafa2704
